@@ -17,7 +17,9 @@
         </div>
       </div>
 
-      <div class="hidden md:flex items-center gap-8 text-sm font-medium">
+      <div
+        class="hidden md:flex items-center gap-8 ml-5 text-[1.3rem] font-medium"
+      >
         <a href="#" class="hover:text-accent transition-colors">首页</a>
         <a href="#collections" class="hover:text-accent transition-colors">产品</a>
         <a href="#about" class="hover:text-accent transition-colors">关于我们</a>

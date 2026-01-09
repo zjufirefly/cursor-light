@@ -7,7 +7,7 @@ export default defineConfig({
     postcss: './postcss.config.cjs'
   },
   server: {
-    port: 5173
+    port: 80
   }
 });
 

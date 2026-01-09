@@ -12,8 +12,8 @@
           F
         </div>
         <div class="leading-tight">
-          <p class="font-semibold tracking-wide">Fashion Studio</p>
-          <p class="text-xs text-white/60">Contemporary Garment Sample</p>
+          <p class="font-semibold tracking-wide">Zj-Light Studio</p>
+          <!-- <p class="text-xs text-white/60">Contemporary Garment Sample</p> -->
         </div>
       </div>
 

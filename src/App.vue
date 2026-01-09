@@ -150,14 +150,14 @@
                 href="mailto:samples@fashionstudio.example"
                 class="text-accent hover:underline"
               >
-                samples@fashionstudio.example
+                amanda.wu@zjyuehe.com
               </a>
             </p>
             <p>
               电话：
-              <span class="text-white/90">+86 010-1234-5678</span>
+              <span class="text-white/90">+86 134-2967-5517</span>
             </p>
-            <p>工作室地址：上海市 静安区 体验路 123 号 · 3F</p>
+            <p>工作室地址：杭州市 上城区 太和广场 8号楼 · 1501-8</p>
           </div>
         </div>
       </section>
